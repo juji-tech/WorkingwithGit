@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ANF_lRBRS0mwh2wlyjGplQ" Reference="77Eap8viTEWlf1rpAEI_6Q/ZM6iKx3OsEqXMz3f_LuvUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvTextArea="390, 447, 240, 30" CvTextArgument="Brad M Roberts" CvType="Text" DesignTimeRectangle="393, 440, 236, 81" DesignTimeScaleFactor="1.3499999046325684" FriendlyName="'Brad M Roberts'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl type='' tag='DIV' class='col-md-3 employees-alternative centered' aaname='{0}' check:innerText='{0}' /&gt;&quot;, EmployeeName)]" Guid="42cdeb3d-d01a-4cbe-9de4-f31bf2264c40" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7c6d8fd229c728d8b1034061c3f54d11.png" xmlns="">053Mep0c5iUyPrYHWkaJErw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Brad M Roberts" Name="EmployeeName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

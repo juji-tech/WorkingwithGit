@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NRQ_RjAP0EW03OeZjxgKHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvTextArea="890, 314, 137, 24" CvTextArgument="Emily T Miranda" CvType="Text" DesignTimeRectangle="705, 312, 510, 27" DesignTimeScaleFactor="1.3499999046325684" ElementType="Text" FriendlyName="'Emily T Miranda'" FullSelectorArgument="&lt;webctrl id='candidateName' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='candidateName' tag='DIV' type='' class='' aaname='Emily T Miranda' check:innerText='Emily T Miranda' /&gt;" Guid="c1e19a96-8d57-4efc-8cf3-759b5b24ef9b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="883787faad072531dec11fa17df0e966.png" xmlns="">00vXxehFQnkCG8SM8qLghdw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

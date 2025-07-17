@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Vendors",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "XMLMvRmqk0mBIbcc7tsG-g",
+  "Reference": "77Eap8viTEWlf1rpAEI_6Q/XMLMvRmqk0mBIbcc7tsG-g",
+  "ParentRef": "77Eap8viTEWlf1rpAEI_6Q/bZmH0nVO3Uy2mE3yl7MNnQ",
+  "Created": "2025-07-16T09:56:07.5847421Z",
+  "Updated": "2025-07-16T09:56:07.5847421Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
